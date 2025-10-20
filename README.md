@@ -1,14 +1,13 @@
-\# Face Recognition Platform
+ # FACE RECOGNITION PLATFORM
 
-
+---
 
 A lightweight, local face recognition system built with Python and OpenCV. Designed for simplicity and speed, this CLI-based tool allows you to:
 
 
+1. Register a face by name  — captures 200 images and retrains the model from scratch  
 
-1\. \*\*Register a face by name\*\* — captures 200 images and retrains the model from scratch  
-
-2\. \*\*Recognize faces live\*\* — identifies known faces and labels unknown ones
+2. Recognize faces live — identifies known faces and labels unknown ones
 
 
 
@@ -20,7 +19,7 @@ No database, no web interface — just a clean folder-based dataset and a reliab
 
 
 
-\## 🔧 Features
+## FEATURES
 
 \- Folder-based dataset (`data/`) with one folder per person
 
@@ -34,11 +33,10 @@ No database, no web interface — just a clean folder-based dataset and a reliab
 
 
 
----
 
 
 
-\## 🚀 Setup
+## SETUP
 
 
 
@@ -56,7 +54,7 @@ pip install opencv-python opencv-contrib-python numpy
 
 
 
-\## ▶️ Usage
+## USAGE
 
 
 
@@ -88,7 +86,7 @@ You'll see a menu:
 
 
 
-\## 📁 Folder Structure
+## FOLDER STRUCTURE
 
 
 
@@ -112,7 +110,7 @@ FACE RECOGNITION PROJECT/
 
 
 
-\## 📝 Notes
+## NOTES
 
 \- Press `q` to quit during capture or recognition
 
@@ -126,21 +124,21 @@ FACE RECOGNITION PROJECT/
 
 
 
-\## 💻 Compatibility
+## COMPATIBILITY
 
 
 
-\- \*\*Python\*\*: 3.7+
+\- Python: 3.7+
 
-\- \*\*Operating System\*\*: Windows, Linux, macOS (requires webcam and OpenCV support)
-
-
-
----
+\- Operating System: Windows, Linux, macOS (requires webcam and OpenCV support)
 
 
 
-\## 👤 Author
+
+
+
+
+## 👤 AUTHOR
 
 
 
@@ -154,7 +152,7 @@ Feel free to fork, modify, or contribute!
 
 
 
-\## 📄 License
+## 📄 LiCENSE
 
 
 
