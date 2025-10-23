@@ -152,7 +152,7 @@ Feel free to fork, modify, or contribute!
 
 
 
-## 📄 LiCENSE
+## 📄 LICENSE
 
 
 
